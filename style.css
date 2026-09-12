@@ -1,0 +1,477 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+
+*{
+padding: 0;
+margin: 0;
+
+}
+
+.bet-1{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+border: 2px 2px 2px solid gray;
+
+}
+
+.fas{
+margin-bottom: 10px;
+color: blue;
+padding-left: 17px;
+text-decoration: underline;
+font-style: oblique;
+}
+.fas2{
+color: black;
+}
+.bet-2{
+width:650px;
+margin: 0px px 0px 0px;
+border-width: 1px;
+ border-style:ridge ;
+ border-color: gray;
+  padding-right: 12px;
+}
+.bet-2 img{
+width: 100%;
+height: 400px;
+margin: 7px;
+border-radius: 8px; 
+        
+}
+.bet-3 h2{
+font-style: oblique;
+padding-left: 6px;
+
+
+}
+.bet-3 p{
+padding-left: 6px;
+font-style: oblique;
+}
+
+.bet-3{
+width: 300px;
+margin: 0px 10px 0px;
+border-width: 1px;
+ border-style:ridge ;
+ border-color: gray;
+  padding-left: 9px;
+  padding-right: 9px;
+  
+}
+img{
+width: 100%;
+height: 200px;
+border-radius: 8px;
+margin-top: 8px;
+}
+
+.bet-4{
+  width: 300px;
+ border-width: 1px;
+ border-style:ridge ;
+ border-color: gray;
+  padding-left: 9px;
+  padding-right: 9px; 
+}
+.bet-4 img{
+width: 100%;
+height: 400px;
+
+}
+
+.local{
+margin-bottom: 10px;
+color: blue;
+padding-left: 17px;
+text-decoration: underline;
+font-style: oblique;
+}
+.lol2{
+color: orange;
+}
+
+.pen-1{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+border: 2px solid greenyellow 10px 10px 10px 10px;
+
+
+
+
+
+}
+.pen-2{
+width: 305px;
+margin: 0px 10px 0px 0px;
+line-height: 25px;
+
+border-width: 1px;
+ border-style:ridge ;
+ border-color: gray;
+  padding-left: 9px;
+  padding-right: 9px; 
+}
+.pen-2 img{
+width: 100%;
+height: 200px;
+border-radius: 7px;
+}
+.pen-2 h3{
+font-style: oblique;
+padding-left: 6px;
+
+}
+.pen-2 p{
+padding-left: 6px;
+
+}
+.pen-3{
+width: 305px;
+margin: 0px 10px 0px 0px;
+line-height: 25px;
+
+
+border-width: 1px;
+ border-style:ridge ;
+ border-color: gray;
+  padding-left: 9px;
+  padding-right: 9px; 
+}
+.pen-3 img{
+width: 100%;
+height: 200px;
+border-radius: 7px;
+}
+.pen-3 h3{
+font-style: oblique;
+padding-left: 6px;
+
+}
+.pen-3 p{
+padding-left: 6px;
+
+}
+
+.pen-4{
+width: 305px;
+margin: 0px 10px 0px 0px;
+line-height: 25px;
+
+
+border-width: 1px;
+ border-style:ridge ;
+ border-color: gray;
+  padding-left: 9px;
+  padding-right: 9px; 
+}
+.pen-4 img{
+width: 100%;
+height: 200px;
+border-radius: 6px;
+}
+.pen-4 h3{
+font-style: oblique;
+padding-left: 6px;
+
+}
+.pen-4 p{
+padding-left: 6px;
+
+}
+.pen-5{
+width: 305px;
+line-height: 25px;
+background-color: ghostwhite;
+
+border-width: 1px;
+ border-style:ridge ;
+ border-color: gray;
+  padding-left: 9px;
+  padding-right: 9px; 
+}
+.pen-5 img{
+width: 100%;
+height: 200px;
+border-radius: 9px;
+}
+.pen-5 h3{
+font-style: oblique;
+padding-left: 6px;
+
+}
+.pen-5 p{
+padding-left: 6px;
+
+}
+.wel{
+margin-bottom: 10px;
+color: blue;
+padding-left: 17px;
+text-decoration: underline;
+font-style: oblique;
+}.well{
+color: black;
+}
+.wet{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+
+}
+.wet-1{
+width: 500px;
+margin: 0px 7px 6px;
+}
+.wet-1 img{
+width: 100%;
+height: 330px;
+
+}
+.wet-2{
+width: 380px;
+margin: 0px 7px 6px;
+}
+.wet-2 img{
+width: 100%;
+height: 330px;
+
+}
+
+.wet-3{
+
+display: flex;
+
+
+}
+.wet-3 img{
+width: 20%;
+height: 77px;
+margin: 0px 3px 4px;
+border: 1px;
+margin-top: 4px;
+
+}
+.p-p{
+border-width: 1px;
+ border-style:ridge ;
+ 
+ 
+   
+}
+.wet{
+background-color: aliceblue;
+}
+footer{
+background-color: black;
+}
+.foot{
+text-align: center;
+color: white;
+font-size: 10px;
+}
+
+
+ nav {
+    background-color: green;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+  }
+  
+  ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  ul li {
+    margin-right: 20px;
+  }
+  
+  ul li a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  ul li a:hover {
+    color: red;
+  }
+  
+  .checkbtn {
+    font-size: 30px;
+    color: yellow;
+    cursor: pointer;
+    display: none;
+    
+  }
+  
+  #check {
+    display: none;
+  }
+
+  
+  
+  @media (max-width: 768px) {
+    .checkbtn {
+      display: block;
+      order: 1;
+      margin-right: 20px;
+    }
+  
+    ul {
+      position: fixed;
+      top: 100px;
+      right: -100%;
+      background-color: green;
+      width: 100%;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      transition: all 0.3s;
+    }
+  
+    ul li {
+      margin: 20px 0;
+    }
+  
+    ul li a {
+      font-size: 20px;
+    }
+  
+    #check:checked ~ ul {
+      right: 0;
+    }
+    .bet-2{
+    width: 325px;
+    border-width: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    }
+    .bet-2 img{
+    width: 100%;
+    height: 180px;
+    
+    }
+   .bet-3{
+  width: 2200px;
+  border-width: 0px;
+   }
+   .bet-3 img{
+    width: 100%;
+    height: 180px;
+   }
+   .bet-4{
+    width: 325px;
+    border-width: 0px;
+   }
+   .bet-4 img{
+   width: 100%;
+   height: 200px;
+   }
+   .pen-2{
+    width: 325px;
+    border-width: 0px;
+   }
+   .pen-2 img{
+   width: 100%;
+   height: 200px;
+   padding-left: 5px;
+   padding-right: 5px;
+   }
+   .pen-3{
+    width: 320px;
+    margin-left: 5px;
+    background-color: white;
+    border-width: 0px;
+   }
+   .pen-3 img{
+   width: 100%;
+   height: 200px;
+  
+   }
+   .pen-4{
+    width: 317px;
+    margin-left: 5px;
+    margin-top: 7px;
+    background-color: white;
+    border-width: 0px;
+   }
+   .pen-4 img{
+   width: 100%;
+   height: 200px;
+   
+   }
+   .pen-5{
+    width: 320px;
+    margin-top: 8px;
+    background-color: white;
+    border-width: 0px;
+   }
+   .pen-5 img{
+   width: 100%;
+   height: 200px;
+   
+   }
+   .wet-1{
+    width: 320px;
+    margin-top: 8px;
+   }
+   .wet-1 img{
+   width: 100%;
+   height: 200px;
+   
+   }
+   .wet-2{
+    width: 320px;
+    margin-top: 8px;
+   }
+   .wet-2 img{
+   width: 100%;
+   height: 200px;
+   
+   }
+   .fas{
+  margin-left: 0px;
+   }
+   .wel{
+   margin-top: 0px;
+   color: brown;
+   
+   }
+  
+   
+   
+   
+   
+  
+  
+
+footer{
+background-color: black;
+}
+.foot{
+color: aliceblue;
+text-align: center;
+}
+  }
+
+  
+
+
+
+
